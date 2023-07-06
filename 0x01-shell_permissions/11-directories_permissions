@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir x+x */
+chmod x+x */
